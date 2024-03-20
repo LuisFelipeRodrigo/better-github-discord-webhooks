@@ -12,7 +12,7 @@ This is what this project is about.
 # How?
 To be defined.
 
-in development... pls funcionaaaa
+in development...
 
 
 
